@@ -1,0 +1,9 @@
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore compiled executables
+*.exe
+
+# Ignore system files on Windows
+Thumbs.db
+Desktop.ini
